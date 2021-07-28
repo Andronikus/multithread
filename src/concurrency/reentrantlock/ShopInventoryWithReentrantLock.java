@@ -1,4 +1,4 @@
-package concurrency.reentrancerwlock;
+package concurrency.reentrantlock;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
